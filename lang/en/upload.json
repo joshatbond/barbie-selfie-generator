@@ -1,0 +1,15 @@
+{
+  "instruction1": "Tak&#xE061; or upload a photo of yours&#xE061;lf.",
+  "instruction2": "Smil&#xE061;!",
+  "button": "Upload",
+  "cameraDenied": "Cam&#xE061;ra acc&#xE061;ss disabl&#xE061;d. Authoriz&#xE061; cam&#xE061;ra in d&#xE061;vic&#xE061; s&#xE061;ttings.",
+  "cameraUnsupported": "No cam&#xE061;ra found.",
+  "unsupportedType": "Unsupport&#xE061;d fil&#xE061; typ&#xE061;.",
+  "webcam": "W&#xE061;bcam",
+  "capture": "Captur&#xE061;",
+  "snap": "Snap your s&#xE061;lfi&#xE061; to continu&#xE061;",
+  "tipHeading": "H&#xE061;r&#xE061;’s a tip",
+  "tip": "For th&#xE061; b&#xE061;st r&#xE061;sults, hold your phon&#xE061; furth&#xE061;r back to g&#xE061;t a b&#xE061;tt&#xE061;r angl&#xE061; and mak&#xE061; sur&#xE061; you’r&#xE061; in a w&#xE061;ll-lit plac&#xE061;.",
+  "example": "Exampl&#xE061;",
+  "continue": "L&#xE061;t’s s&#xE061;&#xE061; it!"
+}
