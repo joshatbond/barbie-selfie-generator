@@ -1,0 +1,76 @@
+{
+  "dir": "ltr",
+  "name": "English",
+  "title": "Barbie Selfie Generator",
+  "description": "Welcome to Barbie Land, where you can be Barbie (or Ken)",
+  "locale": "en-US",
+  "dateDDT": "Only in theaters July 21st",
+  "dateNow": "In theaters now",
+  "nowPlaying": "Now Playing",
+  "ownDigital": "Own it on Digital",
+  "newBadge": "New!",
+  "ownNow": "Own It Now",
+  "footer": {
+    "copyright": "TM & © 2023 Warner Bros. Entertainment Inc. All rights reserved.",
+    "nav": [
+      { "title": "TERMS OF USE", "path": "https://policyhub.warnerbros.com/" },
+      {
+        "title": "PRIVACY POLICY",
+        "path": "https://policyhub.warnerbros.com/"
+      },
+      {
+        "title": "DO NOT SELL MY PERSONAL INFORMATION",
+        "path": "https://policyhub.warnerbros.com/"
+      },
+      {
+        "title": "AD CHOICES",
+        "path": "https://www.warnermediaprivacy.com/opt-out/"
+      },
+      { "title": "BACKGROUND REMOVER", "path": "https://www.photoroom.com/" },
+      {
+        "title": "PRIVACY POLICY",
+        "path": "https://policyhub.warnerbros.com/"
+      },
+      {
+        "title": "PRIVACY POLICY",
+        "path": "https://policyhub.warnerbros.com/"
+      },
+      {
+        "title": "PRIVACY POLICY",
+        "path": "https://policyhub.warnerbros.com/"
+      },
+      { "title": "PRIVACY POLICY", "path": "https://policyhub.warnerbros.com/" }
+    ],
+    "socials": [
+      {
+        "title": "facebook",
+        "path": "https://www.facebook.com/BarbieTheMovie/"
+      },
+      {
+        "title": "instagram",
+        "path": "https://www.instagram.com/barbiethemovie/"
+      },
+      { "title": "x", "path": "https://twitter.com/barbiethemovie" },
+      { "title": "tiktok", "path": "https://www.tiktok.com/@barbiethemovie" }
+    ]
+  },
+  "ui": {
+    "continue": "Continu&#xE061;",
+    "back": "Back",
+    "next": "N&#xE061;xt",
+    "start-over": "Start Ov&#xE061;r",
+    "retake": "R&#xE061;tak&#xE061; Photo",
+    "corvette": "Barbi&#xE061; Corv&#xE061;tt&#xE061;",
+    "selfie": "Barbi&#xE061; Post&#xE061;r",
+    "download": "Download",
+    "hashtag": "#Barbi&#xE061;Th&#xE061;Movi&#xE061;",
+    "selfie-format": "Choos&#xE061; your s&#xE061;lfi&#xE061; format!"
+  },
+  "error": {
+    "title": "Error!",
+    "body1": "Ev&#xE061;n our &#xE061;rrors ar&#xE061; cut&#xE061;.",
+    "body2": "Barbi&#xE061; Land is at maximum capacity at th&#xE061; mom&#xE061;nt.",
+    "body3": "B&#xE061; a doll and try again soon!",
+    "tiktok": "Try it on TikTok"
+  }
+}
