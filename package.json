@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@kobalte/core": "^0.13.2",
+    "@nuxt/devalue": "^2.0.2",
     "@solid-primitives/i18n": "^2.1.1",
     "@solid-primitives/storage": "^3.5.0",
     "@solidjs/meta": "^0.29.4",
@@ -16,6 +17,7 @@
     "@solidjs/start": "^1.0.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "sharp": "^0.33.4",
     "solid-js": "^1.8.17",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
